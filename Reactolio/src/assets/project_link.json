@@ -1,0 +1,33 @@
+[
+    {
+        "name": "Weather Check app",
+        "link": "https://raam337.github.io/WeatherCheck/",
+        "skills": ["Web API", "localStorage", "JSON", "DOM", "Bootstrap"]
+    },
+    {
+        "name": "Coding Quizz",
+        "link": "https://raam337.github.io/Code-Quizz/index.html",
+        "skills": ["Data", "setInterval", "CSS"]
+    },
+    {
+        "name": "Day Planner",
+        "link": "https://raam337.github.io/Planner/",
+        "skills":["jQuery","DayJS", "localStorage"]
+    },
+    {
+        "name": "Password Generator",
+        "link": "https://raam337.github.io/Password_gen/",
+        "skills":["Prompts", "Events","Arrays", "ES5"]
+    },
+    {
+        "name": "HR dashboard",
+        "link": "https://github.com/Raam337/Office-planner",
+        "skills":["Testing", "Node.JS", "Inquirer", "OOP","Jest"]
+    },
+    {
+        "name": "README generator",
+        "link": "https://github.com/Raam337/ReadMeGen",
+        "skills":["Node.JS","fs"]
+
+    }
+]
