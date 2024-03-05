@@ -1,7 +1,7 @@
 
 .projectImg{
-    max-width: 150px;
-    max-height: 150px;
+    width: 300px !important;
+    height: 300px !important;
     object-fit: cover;
     border-radius: 5px !important;
 }

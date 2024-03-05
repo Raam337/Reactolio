@@ -1,0 +1,26 @@
+[
+    {
+        "name": "LinkedIn",
+        "link": "asdasd",
+        "action":"Visit",
+        "ico": "fa-brands fa-linkedin-in"
+    },
+    {
+        "name": "GitHub",
+        "link": "https://github.com/Raam337",
+        "action":"Visit",
+        "ico":"fa-brands fa-github"
+    },
+    {
+        "name": "Email",
+        "link": "myemail@gmail.com",
+        "action":"Email",
+        "ico":"fa-regular fa-envelope"
+    },
+    {
+        "name": "Resume",
+        "link": "asdasd",
+        "action":"Read",
+        "ico":"fa-regular fa-file"
+    }
+]

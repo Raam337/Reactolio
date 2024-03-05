@@ -2,6 +2,7 @@ import Container from 'react-bootstrap/Container';
 import Nav from 'react-bootstrap/Nav';
 import Navbar from 'react-bootstrap/Navbar';
 import NavDropdown from 'react-bootstrap/NavDropdown';
+import contacts from "../../assets/contact.json"
 
 function Footer() {
   return (
@@ -10,12 +11,10 @@ function Footer() {
         <Nav className ="d-inline">
             Robert Feldmanis
         </Nav>
-          <Nav>
-            <Nav.Link href="#home">GitHub</Nav.Link>
-            <Nav.Link href="#link">LinkedIn</Nav.Link>
-            <Nav.Link href="#link">Email</Nav.Link>
-            <Nav.Link href="#link">Projects</Nav.Link>
-            <Nav.Link href="#link">Resume</Nav.Link>
+          <Nav className="d-flex flex-row gap-4 flex-wrap justify-content-center">
+            {contacts.map( (item)=>{
+              return <Nav.Link key={item.name} href={item.link}>{item.name}</Nav.Link>
+            } )}
 
 
           </Nav>

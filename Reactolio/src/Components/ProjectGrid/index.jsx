@@ -11,8 +11,8 @@ function ProjectGrid() {
       <Row className='row-gap-3'>
         {projectList.map( (item)=>{
             return(
-            <Col s={12} md={6}>
-                <ProjectCard img={item.img} title={item.name} skills={item.skills} link={item.link} />
+            <Col s={12} lg={6}>
+                <ProjectCard github={item.github} img={item.img} title={item.name} skills={item.skills} link={item.link} />
             </Col>)
         } )}
       </Row>
@@ -33,10 +33,12 @@ function ProjectCard(props) {
                 return "#" + item + " ";
             } )}
           </Card.Text>
-          <Card.Link href={props.link}>Open the project</Card.Link>
+          <Card.Link href={props.link} target='_blank'>Open the project</Card.Link>
+          <br></br>
+          <Card.Link href={props.github} target='_blank'>GitHub Repo</Card.Link>
         </Card.Body>
       </Card>
-    );
+    )
   }
   
 

@@ -2,36 +2,42 @@
     {
         "name": "Weather Check app",
         "link": "https://raam337.github.io/WeatherCheck/",
+        "github":"https://github.com/Raam337/WeatherCheck/",
         "skills": ["Web API", "localStorage", "JSON", "DOM", "Bootstrap"],
-        "img":"https://placehold.co/150x200"
+        "img":"https://placehold.co/50x150"
     },
     {
         "name": "Coding Quizz",
         "link": "https://raam337.github.io/Code-Quizz/index.html",
+        "github":"https://github.com/Raam337/Code-Quizz/",
         "skills": ["Data", "setInterval", "CSS"],
-        "img":"https://placehold.co/100x100"
+        "img":"https://placehold.co/152x50"
     },
     {
         "name": "Day Planner",
         "link": "https://raam337.github.io/Planner/",
+        "github":"https://github.com/Raam337/Planner/",
         "skills":["jQuery","DayJS", "localStorage"],
-        "img":"https://placehold.co/100x100"
+        "img":"https://placehold.co/120x320"
     },
     {
         "name": "Password Generator",
         "link": "https://raam337.github.io/Password_gen/",
+        "github":"https://github.com/Raam337/Password_gen/",
         "skills":["Prompts", "Events","Arrays", "ES5"],
-        "img":"https://placehold.co/100x100"
+        "img":"https://placehold.co/500x300"
     },
     {
         "name": "HR dashboard",
         "link": "https://github.com/Raam337/Office-planner",
+        "github":"https://github.com/Raam337/Office-planner/",
         "skills":["Testing", "Node.JS", "Inquirer", "OOP","Jest"],
-        "img":"https://placehold.co/100x100"
+        "img":"https://placehold.co/140x180"
     },
     {
         "name": "README generator",
         "link": "https://github.com/Raam337/ReadMeGen",
+        "github":"https://github.com/Raam337/ReadMeGen/",
         "skills":["Node.JS","fs"],
         "img":"https://placehold.co/100x100"
 
