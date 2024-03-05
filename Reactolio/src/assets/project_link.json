@@ -2,32 +2,38 @@
     {
         "name": "Weather Check app",
         "link": "https://raam337.github.io/WeatherCheck/",
-        "skills": ["Web API", "localStorage", "JSON", "DOM", "Bootstrap"]
+        "skills": ["Web API", "localStorage", "JSON", "DOM", "Bootstrap"],
+        "img":"https://placehold.co/150x200"
     },
     {
         "name": "Coding Quizz",
         "link": "https://raam337.github.io/Code-Quizz/index.html",
-        "skills": ["Data", "setInterval", "CSS"]
+        "skills": ["Data", "setInterval", "CSS"],
+        "img":"https://placehold.co/100x100"
     },
     {
         "name": "Day Planner",
         "link": "https://raam337.github.io/Planner/",
-        "skills":["jQuery","DayJS", "localStorage"]
+        "skills":["jQuery","DayJS", "localStorage"],
+        "img":"https://placehold.co/100x100"
     },
     {
         "name": "Password Generator",
         "link": "https://raam337.github.io/Password_gen/",
-        "skills":["Prompts", "Events","Arrays", "ES5"]
+        "skills":["Prompts", "Events","Arrays", "ES5"],
+        "img":"https://placehold.co/100x100"
     },
     {
         "name": "HR dashboard",
         "link": "https://github.com/Raam337/Office-planner",
-        "skills":["Testing", "Node.JS", "Inquirer", "OOP","Jest"]
+        "skills":["Testing", "Node.JS", "Inquirer", "OOP","Jest"],
+        "img":"https://placehold.co/100x100"
     },
     {
         "name": "README generator",
         "link": "https://github.com/Raam337/ReadMeGen",
-        "skills":["Node.JS","fs"]
+        "skills":["Node.JS","fs"],
+        "img":"https://placehold.co/100x100"
 
     }
 ]
